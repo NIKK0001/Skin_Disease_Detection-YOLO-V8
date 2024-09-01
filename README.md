@@ -4,6 +4,8 @@
 
 # Skin Disease Detection using YOLOv8
 
+![](https://github.com/NIKK0001/Skin_Disease_Detection-YOLO-V8/blob/main/yoloultra.png)
+
 ## Description
 This project implements a YOLOv8 model to detect and classify various skin diseases from images. The model is trained on a dataset of labeled images and can identify different types of skin conditions in real-time.
 
